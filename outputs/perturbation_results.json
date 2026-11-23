@@ -1,0 +1,98 @@
+[
+  {
+    "case_id": "SYN-WF-002",
+    "variant": "original",
+    "top_diagnosis": "workflow_process",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.912,
+    "adc_proxy": -0.182
+  },
+  {
+    "case_id": "SYN-WF-002",
+    "variant": "25pct_observations_removed",
+    "top_diagnosis": "decision_rights_governance",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.931,
+    "adc_proxy": 0.116
+  },
+  {
+    "case_id": "SYN-WF-002",
+    "variant": "accepted_explanation_swapped",
+    "top_diagnosis": "workflow_process",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.912,
+    "adc_proxy": -0.182
+  },
+  {
+    "case_id": "SYN-WF-002",
+    "variant": "evidence_labels_removed",
+    "top_diagnosis": "capacity_resources",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.882,
+    "adc_proxy": 0.43
+  },
+  {
+    "case_id": "SYN-LEAD-002",
+    "variant": "original",
+    "top_diagnosis": "structure_coordination",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.877,
+    "adc_proxy": 0.078
+  },
+  {
+    "case_id": "SYN-LEAD-002",
+    "variant": "25pct_observations_removed",
+    "top_diagnosis": "leadership_behavior",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.895,
+    "adc_proxy": -0.099
+  },
+  {
+    "case_id": "SYN-LEAD-002",
+    "variant": "accepted_explanation_swapped",
+    "top_diagnosis": "structure_coordination",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.877,
+    "adc_proxy": 0.078
+  },
+  {
+    "case_id": "SYN-LEAD-002",
+    "variant": "evidence_labels_removed",
+    "top_diagnosis": "decision_rights_governance",
+    "sufficiency": "provisional_diagnosis_possible",
+    "diversity": 0.84,
+    "adc_proxy": 0.184
+  },
+  {
+    "case_id": "SYN-INSUF-001",
+    "variant": "original",
+    "top_diagnosis": "outside_current_ontology",
+    "sufficiency": "insufficient_evidence",
+    "diversity": 0.923,
+    "adc_proxy": 0.38
+  },
+  {
+    "case_id": "SYN-INSUF-001",
+    "variant": "25pct_observations_removed",
+    "top_diagnosis": "outside_current_ontology",
+    "sufficiency": "insufficient_evidence",
+    "diversity": 0.917,
+    "adc_proxy": 0.38
+  },
+  {
+    "case_id": "SYN-INSUF-001",
+    "variant": "accepted_explanation_swapped",
+    "top_diagnosis": "outside_current_ontology",
+    "sufficiency": "insufficient_evidence",
+    "diversity": 0.923,
+    "adc_proxy": 0.38
+  },
+  {
+    "case_id": "SYN-INSUF-001",
+    "variant": "evidence_labels_removed",
+    "top_diagnosis": "capacity_resources",
+    "sufficiency": "insufficient_evidence",
+    "diversity": 0.937,
+    "adc_proxy": 0.213
+  }
+]

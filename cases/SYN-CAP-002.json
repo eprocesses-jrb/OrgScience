@@ -1,0 +1,35 @@
+{
+  "case_id": "SYN-CAP-002",
+  "title": "Warehouse peak-season failures",
+  "ground_truth_mechanisms": [
+    "capacity_resources"
+  ],
+  "accepted_explanation": "The new routing software is unreliable.",
+  "observations": [
+    "Order volume doubles during a six-week seasonal peak.",
+    "Pick capacity rises only ten percent during the peak.",
+    "Error rates are stable while late shipments increase sharply.",
+    "Late shipments fall after temporary pickers are added."
+  ],
+  "participant_claims": [
+    "Supervisors distrust the routing software."
+  ],
+  "researcher_interpretations": [
+    "A demand-capacity imbalance may dominate the failure."
+  ],
+  "assumptions": [
+    "Technology is the main cause because it was recently implemented."
+  ],
+  "missing_evidence": [
+    "Hourly demand and effective pick capacity."
+  ],
+  "contingencies": {
+    "environmental_volatility": "high",
+    "organizational_maturity": "medium",
+    "change_depth": "local",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "high"
+  }
+}

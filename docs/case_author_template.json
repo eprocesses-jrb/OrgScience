@@ -1,0 +1,14 @@
+{
+  "case_id": "OPAQUE-ID-TO-BE-ASSIGNED",
+  "title": "",
+  "focal_outcome": "",
+  "accepted_explanation": "",
+  "observations": [],
+  "participant_claims": [],
+  "documents_or_metrics": [],
+  "researcher_interpretations": [],
+  "assumptions": [],
+  "missing_evidence": [],
+  "provenance": "synthetic|public_documentary|deidentified_practitioner",
+  "author_notes": "Do not use DIAGNOSE mechanism-family names unless they arise naturally."
+}

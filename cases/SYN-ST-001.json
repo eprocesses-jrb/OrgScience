@@ -1,0 +1,36 @@
+{
+  "case_id": "SYN-ST-001",
+  "title": "Product launch fragmented across functions",
+  "ground_truth_mechanisms": [
+    "structure_coordination"
+  ],
+  "accepted_explanation": "The project manager communicates poorly.",
+  "observations": [
+    "Engineering, marketing, and operations use separate launch calendars.",
+    "Dependencies cross departmental boundaries but no role owns the interface.",
+    "Cross-functional issues remain unresolved until late-stage meetings.",
+    "Each unit reports its own milestones as on time."
+  ],
+  "participant_claims": [
+    "Managers say teams need better communication."
+  ],
+  "researcher_interpretations": [
+    "Structural fragmentation may create predictable coordination failures."
+  ],
+  "assumptions": [
+    "More frequent meetings will solve the problem."
+  ],
+  "missing_evidence": [
+    "Dependency ownership by interface.",
+    "Escalation paths across units."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "cross-functional",
+    "system_coupling": "tight",
+    "evidence_quality": "high",
+    "authority_distribution": "distributed",
+    "intervention_reversibility": "medium"
+  }
+}

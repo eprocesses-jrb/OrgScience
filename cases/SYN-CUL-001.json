@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-CUL-001",
+  "title": "Safety near-miss silence",
+  "ground_truth_mechanisms": [
+    "culture_norms",
+    "leadership_behavior"
+  ],
+  "accepted_explanation": "Employees do not understand the reporting system.",
+  "observations": [
+    "Employees can correctly demonstrate how to file a near-miss report.",
+    "Teams with supervisors who discuss mistakes openly report more near misses.",
+    "Several employees describe fear of being labeled careless.",
+    "Supervisors receive informal praise for low incident counts."
+  ],
+  "participant_claims": [
+    "Safety leaders say the reporting interface is easy to use."
+  ],
+  "researcher_interpretations": [
+    "Fear and local supervisory norms may suppress reporting."
+  ],
+  "assumptions": [
+    "Low reporting indicates low incident frequency."
+  ],
+  "missing_evidence": [
+    "Consequences experienced after reporting.",
+    "Supervisor responses to reported mistakes."
+  ],
+  "contingencies": {
+    "environmental_volatility": "low",
+    "organizational_maturity": "high",
+    "change_depth": "systemic",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "distributed",
+    "intervention_reversibility": "medium"
+  }
+}

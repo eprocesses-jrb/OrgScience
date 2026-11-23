@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-GOV-002",
+  "title": "Hospital unit exception decisions",
+  "ground_truth_mechanisms": [
+    "decision_rights_governance",
+    "leadership_behavior"
+  ],
+  "accepted_explanation": "Frontline staff lack initiative.",
+  "observations": [
+    "Frontline supervisors must seek manager permission for common exceptions.",
+    "Managers reverse some delegated decisions without stated criteria.",
+    "Employees escalate low-risk issues to avoid blame.",
+    "Leadership messages encourage empowerment while approval rules remain unchanged."
+  ],
+  "participant_claims": [
+    "Leaders say employees should take more ownership."
+  ],
+  "researcher_interpretations": [
+    "Formal and de facto authority may conflict."
+  ],
+  "assumptions": [
+    "Reluctance to decide reflects employee motivation."
+  ],
+  "missing_evidence": [
+    "Decision reversals by category.",
+    "Written versus practiced delegation limits."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "cross-functional",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "mixed",
+    "intervention_reversibility": "high"
+  }
+}

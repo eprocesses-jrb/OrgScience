@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-MET-002",
+  "title": "Sales growth with margin erosion",
+  "ground_truth_mechanisms": [
+    "measurement_incentives",
+    "environment_strategy"
+  ],
+  "accepted_explanation": "Pricing discipline is weak because salespeople are inexperienced.",
+  "observations": [
+    "Bonuses are based on gross revenue rather than contribution margin.",
+    "Discounted deals receive the same quota credit as full-price deals.",
+    "Competitors lowered prices in two major segments.",
+    "Margin erosion is concentrated in quota-critical months."
+  ],
+  "participant_claims": [
+    "Sales leaders cite competitive pressure."
+  ],
+  "researcher_interpretations": [
+    "Incentives and market pressure may interact."
+  ],
+  "assumptions": [
+    "Discounting is entirely externally forced."
+  ],
+  "missing_evidence": [
+    "Deal-level quota incentives.",
+    "Customer price elasticity by segment."
+  ],
+  "contingencies": {
+    "environmental_volatility": "high",
+    "organizational_maturity": "high",
+    "change_depth": "cross-functional",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "mixed",
+    "intervention_reversibility": "high"
+  }
+}

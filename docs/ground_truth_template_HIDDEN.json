@@ -1,0 +1,20 @@
+{
+  "case_id": "OPAQUE-ID-TO-BE-ASSIGNED",
+  "most_defensible_mechanisms_free_text": [],
+  "plausible_rivals_free_text": [],
+  "discriminating_evidence": [],
+  "insufficient_evidence_is_correct": false,
+  "author_ground_truth_confidence_0_100": null,
+  "adjudicator_1": {
+    "mechanism_free_text": [],
+    "evidentiary_support_0_100": null,
+    "insufficient_evidence": null,
+    "comments": ""
+  },
+  "adjudicator_2": {
+    "mechanism_free_text": [],
+    "evidentiary_support_0_100": null,
+    "insufficient_evidence": null,
+    "comments": ""
+  }
+}

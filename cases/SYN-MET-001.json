@@ -1,0 +1,36 @@
+{
+  "case_id": "SYN-MET-001",
+  "title": "Call center metric distortion",
+  "ground_truth_mechanisms": [
+    "measurement_incentives"
+  ],
+  "accepted_explanation": "Agents need customer-service training.",
+  "observations": [
+    "Agents are rewarded for short handle time.",
+    "Repeat calls increased after the target was tightened.",
+    "Agents transfer complex calls near the target threshold.",
+    "Quality scores are reviewed less frequently than speed scores."
+  ],
+  "participant_claims": [
+    "Managers say some agents do not care enough about customers."
+  ],
+  "researcher_interpretations": [
+    "The performance system may reward behavior that increases total demand."
+  ],
+  "assumptions": [
+    "Short calls are efficient calls."
+  ],
+  "missing_evidence": [
+    "Repeat-contact rate by agent and call type.",
+    "Transfer behavior around target thresholds."
+  ],
+  "contingencies": {
+    "environmental_volatility": "low",
+    "organizational_maturity": "high",
+    "change_depth": "local",
+    "system_coupling": "tight",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "high"
+  }
+}

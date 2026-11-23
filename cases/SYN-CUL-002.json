@@ -1,0 +1,36 @@
+{
+  "case_id": "SYN-CUL-002",
+  "title": "Post-merger knowledge withholding",
+  "ground_truth_mechanisms": [
+    "culture_norms",
+    "measurement_incentives"
+  ],
+  "accepted_explanation": "Employees from the acquired firm are not collaborative.",
+  "observations": [
+    "Teams compete for the same internal revenue credits.",
+    "Specialist knowledge is tied to individual utilization targets.",
+    "Employees describe sharing knowledge as helping another team meet its quota.",
+    "Knowledge sharing is higher where managers pool credit across teams."
+  ],
+  "participant_claims": [
+    "Executives attribute friction to incompatible cultures."
+  ],
+  "researcher_interpretations": [
+    "Competitive incentives may be reinforcing an emergent norm of withholding."
+  ],
+  "assumptions": [
+    "Pre-merger cultural differences are the primary cause."
+  ],
+  "missing_evidence": [
+    "Sharing behavior before and after incentive changes."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "systemic",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "distributed",
+    "intervention_reversibility": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-ST-002",
+  "title": "Regional service model with duplicated work",
+  "ground_truth_mechanisms": [
+    "structure_coordination",
+    "capacity_resources"
+  ],
+  "accepted_explanation": "Regional employees resist standardization.",
+  "observations": [
+    "Three regional units duplicate specialist roles.",
+    "Workload varies sharply by region while staff cannot be shared easily.",
+    "Cross-region referrals require manual coordination.",
+    "One region has idle specialist capacity while another has backlog."
+  ],
+  "participant_claims": [
+    "Executives attribute variation to local culture."
+  ],
+  "researcher_interpretations": [
+    "Formal unit boundaries may prevent pooling scarce capacity."
+  ],
+  "assumptions": [
+    "Regional autonomy is necessary for all specialist work."
+  ],
+  "missing_evidence": [
+    "Cross-region demand variability.",
+    "Transfer constraints for specialist work."
+  ],
+  "contingencies": {
+    "environmental_volatility": "low",
+    "organizational_maturity": "medium",
+    "change_depth": "systemic",
+    "system_coupling": "moderate",
+    "evidence_quality": "medium",
+    "authority_distribution": "distributed",
+    "intervention_reversibility": "medium"
+  }
+}

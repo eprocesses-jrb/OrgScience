@@ -1,0 +1,41 @@
+{
+  "case_id": "SYN-OUT-001",
+  "title": "Facility failures caused by contaminated input material",
+  "ground_truth_mechanisms": [
+    "outside_current_ontology"
+  ],
+  "accepted_explanation": "Maintenance practices are deteriorating.",
+  "observations": [
+    "Equipment failures appear across otherwise independent lines.",
+    "Failures begin after a new batch of input material arrives.",
+    "Maintenance schedules and staffing are unchanged.",
+    "Laboratory analysis finds abrasive contamination in the input material."
+  ],
+  "participant_claims": [
+    "Maintenance managers initially blame aging equipment."
+  ],
+  "researcher_interpretations": [
+    "A physical-material mechanism outside the current organizational ontology may be causal."
+  ],
+  "assumptions": [
+    "All persistent performance failures are primarily organizational."
+  ],
+  "missing_evidence": [
+    "Supplier batch records.",
+    "Failure rates after uncontaminated material is restored."
+  ],
+  "unclassified_signals": [
+    "abrasive contamination",
+    "input material",
+    "laboratory analysis"
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "high",
+    "change_depth": "local",
+    "system_coupling": "loose",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "high"
+  }
+}

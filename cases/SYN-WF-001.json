@@ -1,0 +1,39 @@
+{
+  "case_id": "SYN-WF-001",
+  "title": "Printing throughput with local optimization",
+  "ground_truth_mechanisms": [
+    "workflow_process",
+    "measurement_incentives"
+  ],
+  "accepted_explanation": "Operators are not working fast enough.",
+  "observations": [
+    "Jobs wait in a queue between preparation, press, and finishing.",
+    "Local productivity targets reward keeping individual equipment utilized.",
+    "Expedited jobs interrupt the planned sequence.",
+    "Rework returns jobs to earlier workflow stages.",
+    "Backlog grows while departments meet local productivity targets."
+  ],
+  "participant_claims": [
+    "Supervisors say staffing is the primary problem.",
+    "Operators say priority changes cause setup losses."
+  ],
+  "researcher_interpretations": [
+    "The system may optimize local utilization instead of throughput."
+  ],
+  "assumptions": [
+    "Individual operator speed is the principal cause of late delivery."
+  ],
+  "missing_evidence": [
+    "Touch time versus waiting time by job.",
+    "Frequency and source of priority changes."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "cross-functional",
+    "system_coupling": "tight",
+    "evidence_quality": "high",
+    "authority_distribution": "mixed",
+    "intervention_reversibility": "high"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-CAP-001",
+  "title": "County benefits backlog",
+  "ground_truth_mechanisms": [
+    "capacity_resources",
+    "workflow_process"
+  ],
+  "accepted_explanation": "The agency simply needs a larger budget.",
+  "observations": [
+    "Incoming cases exceed completed cases during seasonal peaks.",
+    "Specialist review is required late in the sequence.",
+    "Work is batched before specialist review.",
+    "Backlog persists after temporary staff are added to intake."
+  ],
+  "participant_claims": [
+    "Managers say chronic underfunding explains the backlog."
+  ],
+  "researcher_interpretations": [
+    "Capacity and sequencing at a constrained stage may jointly sustain backlog."
+  ],
+  "assumptions": [
+    "Any additional headcount will increase throughput proportionally."
+  ],
+  "missing_evidence": [
+    "Stage-specific effective capacity.",
+    "Queue length before specialist review."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "cross-functional",
+    "system_coupling": "tight",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "medium"
+  }
+}

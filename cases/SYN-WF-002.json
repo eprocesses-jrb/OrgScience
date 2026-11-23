@@ -1,0 +1,38 @@
+{
+  "case_id": "SYN-WF-002",
+  "title": "Insurance handoff delay",
+  "ground_truth_mechanisms": [
+    "workflow_process",
+    "decision_rights_governance"
+  ],
+  "accepted_explanation": "The service team needs more staff.",
+  "observations": [
+    "Cases move through multiple functional handoffs.",
+    "Exception approvals require escalation to managers.",
+    "Missing information produces rework and additional queue time.",
+    "Departments meet productivity targets while end-to-end cycle time remains high."
+  ],
+  "participant_claims": [
+    "Managers cite workload and staffing shortage.",
+    "Employees describe unclear authority for exception decisions."
+  ],
+  "researcher_interpretations": [
+    "Accumulated handoff and approval time may exceed touch-time delay."
+  ],
+  "assumptions": [
+    "Demand growth is sufficient to explain delay."
+  ],
+  "missing_evidence": [
+    "Stage-level queue times.",
+    "Approval frequency and latency."
+  ],
+  "contingencies": {
+    "environmental_volatility": "low",
+    "organizational_maturity": "high",
+    "change_depth": "cross-functional",
+    "system_coupling": "tight",
+    "evidence_quality": "high",
+    "authority_distribution": "distributed",
+    "intervention_reversibility": "medium"
+  }
+}

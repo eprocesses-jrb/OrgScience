@@ -1,0 +1,38 @@
+{
+  "case_id": "SYN-INSUF-001",
+  "title": "Employee turnover with observational equivalence",
+  "ground_truth_mechanisms": [
+    "insufficient_evidence"
+  ],
+  "accepted_explanation": "Employees are leaving because managers communicate poorly.",
+  "observations": [
+    "Turnover increased from 12% to 19% over twelve months.",
+    "Exit timing is concentrated in two business units."
+  ],
+  "participant_claims": [
+    "Some departing employees mention managers.",
+    "Other departing employees mention pay, workload, promotion, and location."
+  ],
+  "researcher_interpretations": [
+    "Several mechanisms remain observationally compatible with the available evidence."
+  ],
+  "assumptions": [
+    "The most frequently mentioned complaint is the dominant causal mechanism."
+  ],
+  "missing_evidence": [
+    "Unit-level compensation changes.",
+    "Manager-level turnover patterns.",
+    "Workload trends.",
+    "Promotion rates.",
+    "Local labor-market conditions."
+  ],
+  "contingencies": {
+    "environmental_volatility": "medium",
+    "organizational_maturity": "medium",
+    "change_depth": "unknown",
+    "system_coupling": "moderate",
+    "evidence_quality": "low",
+    "authority_distribution": "mixed",
+    "intervention_reversibility": "medium"
+  }
+}

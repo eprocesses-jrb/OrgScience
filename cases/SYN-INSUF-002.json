@@ -1,0 +1,38 @@
+{
+  "case_id": "SYN-INSUF-002",
+  "title": "Innovation slowdown after reorganization",
+  "ground_truth_mechanisms": [
+    "insufficient_evidence"
+  ],
+  "accepted_explanation": "The reorganization damaged collaboration.",
+  "observations": [
+    "New product launches declined in the year after a reorganization.",
+    "R&D spending also declined during the same year.",
+    "A major market contraction occurred during the same period."
+  ],
+  "participant_claims": [
+    "Employees report more coordination difficulty.",
+    "Executives cite reduced demand."
+  ],
+  "researcher_interpretations": [
+    "Structure, resource reduction, and external demand are all plausible."
+  ],
+  "assumptions": [
+    "Temporal ordering implies the reorganization caused the launch decline."
+  ],
+  "missing_evidence": [
+    "Project pipeline before reorganization.",
+    "Cancelled projects by cause.",
+    "R&D headcount and spending by project.",
+    "Comparable units not reorganized."
+  ],
+  "contingencies": {
+    "environmental_volatility": "high",
+    "organizational_maturity": "high",
+    "change_depth": "systemic",
+    "system_coupling": "tight",
+    "evidence_quality": "low",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "low"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "SYN-LEAD-001",
+  "title": "Strategic initiative starved of attention",
+  "ground_truth_mechanisms": [
+    "leadership_behavior"
+  ],
+  "accepted_explanation": "Middle managers resist the new strategy.",
+  "observations": [
+    "Senior leaders announce the initiative as a top priority.",
+    "Budget and executive meeting time remain concentrated on legacy business.",
+    "Managers are evaluated mainly on legacy performance.",
+    "Executives repeatedly postpone decisions required by the new initiative."
+  ],
+  "participant_claims": [
+    "Executives say middle management lacks commitment."
+  ],
+  "researcher_interpretations": [
+    "Leadership allocation decisions may contradict stated priorities."
+  ],
+  "assumptions": [
+    "Verbal sponsorship is sufficient evidence of leadership commitment."
+  ],
+  "missing_evidence": [
+    "Executive attention and resource allocation over time."
+  ],
+  "contingencies": {
+    "environmental_volatility": "high",
+    "organizational_maturity": "high",
+    "change_depth": "systemic",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "medium"
+  }
+}

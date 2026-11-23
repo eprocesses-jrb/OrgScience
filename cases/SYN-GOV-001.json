@@ -1,0 +1,36 @@
+{
+  "case_id": "SYN-GOV-001",
+  "title": "Capital project approval latency",
+  "ground_truth_mechanisms": [
+    "decision_rights_governance"
+  ],
+  "accepted_explanation": "Project teams submit poor business cases.",
+  "observations": [
+    "Routine capital requests require six sequential approvals.",
+    "Two approvers review the same risk information.",
+    "No threshold distinguishes routine from exceptional decisions.",
+    "Escalations wait for a monthly governance meeting."
+  ],
+  "participant_claims": [
+    "Executives say tighter governance protects capital discipline."
+  ],
+  "researcher_interpretations": [
+    "Decision rights and approval architecture may be the dominant delay mechanism."
+  ],
+  "assumptions": [
+    "Every approval adds unique risk control."
+  ],
+  "missing_evidence": [
+    "Value added by each approval.",
+    "Error rates by request type."
+  ],
+  "contingencies": {
+    "environmental_volatility": "low",
+    "organizational_maturity": "high",
+    "change_depth": "systemic",
+    "system_coupling": "moderate",
+    "evidence_quality": "high",
+    "authority_distribution": "centralized",
+    "intervention_reversibility": "high"
+  }
+}

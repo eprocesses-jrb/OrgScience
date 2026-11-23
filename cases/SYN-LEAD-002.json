@@ -1,0 +1,37 @@
+{
+  "case_id": "SYN-LEAD-002",
+  "title": "Transformation program with rotating sponsorship",
+  "ground_truth_mechanisms": [
+    "leadership_behavior",
+    "structure_coordination"
+  ],
+  "accepted_explanation": "The transformation office is ineffective.",
+  "observations": [
+    "Executive sponsorship changes three times in one year.",
+    "Business units receive conflicting implementation priorities.",
+    "The transformation office has coordination responsibility but no authority over unit resources.",
+    "Decisions are reopened after sponsor changes."
+  ],
+  "participant_claims": [
+    "Unit leaders say the transformation office creates bureaucracy."
+  ],
+  "researcher_interpretations": [
+    "Sponsor instability and structural authority gaps may jointly undermine execution."
+  ],
+  "assumptions": [
+    "A central program office can coordinate without decision authority."
+  ],
+  "missing_evidence": [
+    "Decision reversals by sponsor period.",
+    "Resource commitments by unit."
+  ],
+  "contingencies": {
+    "environmental_volatility": "high",
+    "organizational_maturity": "medium",
+    "change_depth": "systemic",
+    "system_coupling": "tight",
+    "evidence_quality": "medium",
+    "authority_distribution": "mixed",
+    "intervention_reversibility": "low"
+  }
+}
