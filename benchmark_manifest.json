@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "case_count": 16,
+  "benchmark_type": "synthetic developmental benchmark",
+  "mechanism_families": [
+    "workflow_process",
+    "structure_coordination",
+    "decision_rights_governance",
+    "measurement_incentives",
+    "capacity_resources",
+    "leadership_behavior",
+    "culture_norms",
+    "environment_strategy",
+    "outside_current_ontology"
+  ],
+  "warning": "These cases are developmental examples, not a validated benchmark. Stage 2 requires independent authorship and blinded holdouts."
+}

@@ -1,0 +1,19 @@
+{
+  "version": "0.4A",
+  "date": "2026-10-27",
+  "changes": [
+    "Added reviewer-facing one-command demo and reviewer guide.",
+    "Added Stage-1 submission manifest aligned to the official call.",
+    "Added five public documentary validation seed domains from NTSB and GAO sources.",
+    "Added case-author and hidden-ground-truth templates for independent validation.",
+    "Finalized proposal and technical appendix for Stage-1 packaging.",
+    "Added evidence-type weighting to reduce narrative anchoring on claims and assumptions.",
+    "Added three insufficient-evidence benchmark cases and explicit abstention output.",
+    "Added perturbation engine and perturbation-study runner.",
+    "Added provider-neutral model-adapter interface.",
+    "Added independent case-authoring protocol and Stage-2 preregistration draft.",
+    "Expanded tests from 4 to 7.",
+    "Updated benchmark aggregation for insufficient-evidence accuracy."
+  ],
+  "anonymous_review_copy": true
+}

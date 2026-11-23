@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this prototype during anonymous review, cite it as DIAGNOSE v0.4A."
+title: "DIAGNOSE: Preserving Competing Explanations in AI-Assisted Organizational Science"
+type: software
+authors:
+  - family-names: "Anonymous"
+    given-names: "Authors"
+version: "0.4A"
+date-released: "2026-10-27"
+license: MIT
